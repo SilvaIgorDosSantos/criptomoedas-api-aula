@@ -4,5 +4,5 @@ Utilização dos dados fornecidos pela API da [CoinMarketCap](https://coinmarket
 
 Por motivos de segurança, não está disponível a chave API usada para obter os dados e imagens dos filmes. Por isso, abaixo tem uma imagem mostrando o site usando os dados obtidos pela API.
 
-![Site utilizando os dados da API](exemplo.png)
+![Site utilizando os dados da API](exemplo.PNG)
 
